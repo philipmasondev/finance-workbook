@@ -1,0 +1,24 @@
+TODO:
+landing page:
+- if user is not logged in prompt to login or create account. 
+- Once on the landing page there will be a navbar that will display the specified groups of components. 
+
+TODO:
+debt:
+- When selected this will show list of accounts to be paid
+- option to add account to track total debt and payments toward that debt. This will update to total balance as payments are made. 
+- This page will show the accounts for the month, totals, due dates, etc. 
+
+TODO:
+deposit:
+- This will show list of incoming funds such as:
+    * paychecks, gift moneys, etc
+- option to add accounts
+- list of accounts for the month, dates money will be received, total for the month.
+
+TODO:
+dashboard.
+- This is the landing page once user logs in.
+- This will show list of all accounts for the month, total incoming, total debt, monthly total after: (total incoming - total debts) calculated.
+
+This is the basic concept at this time and will change as application is developed. 
