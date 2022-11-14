@@ -21,4 +21,3 @@ The can click in navbar to add expense account or add a deposit account.
 * Created by Philip M. Mason
 * philipmmason.com
 * philipmmason@gmail.com
-changes
